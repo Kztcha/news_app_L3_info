@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📰 News App
 
 ## 📌 Description
