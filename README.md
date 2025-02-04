@@ -9,14 +9,6 @@ Application Flutter affichant les dernières actualités par catégorie en utili
 - 🌐 Lecture des articles dans un navigateur intégré (`WebView`).
 - 🏆 Affichage des actualités tendances.
 
-## 🚀 Installation
-```sh
-git clone <repository_url>
-cd news_app
-flutter pub get
-flutter run
-```
-
 ## 📁 Structure
 - `main.dart` : Interface principale.
 - `news_service.dart` : Récupération des articles via API.
