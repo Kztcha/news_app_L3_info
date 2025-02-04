@@ -26,6 +26,7 @@ Application Flutter affichant les dernières actualités par catégorie en utili
 L'application utilise **NewsAPI** pour récupérer les actualités. Un `apiKey` est requis et doit être défini dans `news_service.dart`.
 
 ## ⚠️ Remarque
+Il s'agitde la version newsAPI la version utilisant les media locaux n'est pas encore prête.
 L'API actuelle est limitée et ne permet pas d'afficher des actualités au-delà d'un certain quota journalier.
 
 ## 🎨 Mascottes
